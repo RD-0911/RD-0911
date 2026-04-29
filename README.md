@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a student of **Computer Systems Engineering (Ingeniería en Sistemas Computacionales)** focused on web development.  
+I am a **Computer Systems Engineering student (Ingeniería en Sistemas Computacionales)** focused on web development.  
 I enjoy building web applications, managing databases, and developing backend systems.
 
 ---
@@ -32,11 +32,19 @@ I enjoy building web applications, managing databases, and developing backend sy
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
+**Also experienced with:**
+
+- CodeIgniter
+
 ### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
+
+**Additional database experience:**
+
+- SQL Server
 
 ### 🔧 Tools
 
