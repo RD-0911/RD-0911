@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Systems Engineering student focused on web development.  
+I am a student of **Computer Systems Engineering (Ingeniería en Sistemas Computacionales)** focused on web development.  
 I enjoy building web applications, managing databases, and developing backend systems.
 
 ---
@@ -55,10 +55,10 @@ Allows scheduling, managing clients, and organizing services efficiently.
 
 **Technologies used:**
 
-- React (Vite)
-- Node.js
-- Express
-- MySQL
+- React (Vite)  
+- Node.js  
+- Express  
+- MySQL  
 
 ---
 
@@ -69,9 +69,9 @@ Focused on organizing information and improving administrative control.
 
 **Technologies used:**
 
-- CodeIgniter
-- PHP
-- MySQL
+- CodeIgniter  
+- PHP  
+- MySQL  
 
 ---
 
