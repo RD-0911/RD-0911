@@ -1,4 +1,3 @@
-
 <!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=Raul%20Dolores&fontSize=40&fontColor=ffffff" />
@@ -15,7 +14,7 @@
 ## 👨‍💻 About Me
 
 I am a Computer Systems Engineering student focused on web development.  
-I enjoy building web applications, working with databases, and developing backend systems.
+I enjoy building web applications, managing databases, and developing backend systems.
 
 ---
 
@@ -49,21 +48,31 @@ I enjoy building web applications, working with databases, and developing backen
 
 ## 🚀 Projects
 
-### 🗺️ MapsCar  
-Web application for managing and evaluating gas stations.  
-Built with React, Node.js, and MySQL.
+### 💈 MyBarber — Barber Appointment Management System
 
-### 🏛️ Municipal Web System  
-Dynamic web system for managing news, events, and information.  
-Built using PHP and CodeIgniter.
+Web application designed to manage appointments for barbershops.  
+Allows scheduling, managing clients, and organizing services efficiently.
 
-### 📱 Web Applications  
-Development of responsive web applications using modern technologies.
+**Technologies used:**
+
+- React (Vite)
+- Node.js
+- Express
+- MySQL
 
 ---
 
+### 🪖 SS — Conscripts Management System
 
+Web system developed to manage records and processes related to conscripts.  
+Focused on organizing information and improving administrative control.
 
+**Technologies used:**
 
+- CodeIgniter
+- PHP
+- MySQL
+
+---
 
 ⭐ Thanks for visiting my profile!
