@@ -62,12 +62,8 @@ Development of responsive web applications using modern technologies.
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RD-0911&show_icons=true&theme=tokyonight" />
-</p>
 
----
+
 
 ⭐ Thanks for visiting my profile!
